@@ -1,0 +1,4 @@
+		{
+		    name:'exifInterface',
+		    class:'com.apicloud.exif.ExifInterfaceModule'
+		}

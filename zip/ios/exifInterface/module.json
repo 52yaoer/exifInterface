@@ -1,0 +1,6 @@
+{
+    "name":"exifInterface",
+    "class":"ExifInterfaceModule",
+    "methods":["setExifInfo","getExifInfo","setDegreeExif"],
+    "launchClassMethod":"launch"
+ }
